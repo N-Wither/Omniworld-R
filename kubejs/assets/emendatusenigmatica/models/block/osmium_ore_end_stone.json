@@ -1,0 +1,23 @@
+{
+	"parent": "block/block",
+	"loader": "forge:composite",
+	"children": {
+		"solid": {
+			"parent": "block/cube_all",
+			"render_type": "minecraft:solid",
+			"textures": {
+				"all": "minecraft:block/end_stone"
+			}
+		},
+		"translucent": {
+			"parent": "block/cube_all",
+			"render_type": "minecraft:translucent",
+			"textures": {
+				"all": "emendatusenigmatica:block/overlays/osmium"
+			}
+		}
+	},
+	"textures": {
+		"particle": "minecraft:block/end_stone"
+	}
+}

@@ -1,0 +1,40 @@
+WorldgenEvents.add(e => {
+    /**
+     * @param {OreGenConfig} config
+     */
+    let genore = config => {
+        e.addOre(ore => {
+            ore.id = config.id;
+            ore.biomes = config.biomes;
+
+            for (let i = 0; i < config.target.length; i++) {
+                ore.addTarget(config.target[i][0], config.target[i][1]);
+            }
+
+            if (config.distribution == 'triangle') {
+                ore.count(config.count)
+                    .squared()
+                    .triangleHeight(e.anchors.absolute(config.minHeight), e.anchors.absolute(config.maxHeight));
+            } else if (config.distribution == 'uniform') {
+                ore.count(config.count)
+                    .squared()
+                    .uniformHeight(e.anchors.absolute(config.minHeight), e.anchors.absolute(config.maxHeight));
+            }
+
+            ore.size = config.maxsize;
+            ore.noSurface = config.noSurface || 0;
+            ore.worldgenLayer = 'underground_ores';
+        });
+    };
+
+    genore({
+        id: 'kubejs:orichalcum_ore',
+        biomes: 'minecraft:is_mountain',
+        target: [['#minecraft:deepslate_ore_replaceables', 'emendatusenigmatica:orichalcum_ore_deepslate']],
+        distribution: 'uniform',
+        maxsize: 8,
+        count: 6,
+        maxHeight: -5,
+        minHeight: -64,
+    });
+});

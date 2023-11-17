@@ -1,0 +1,39 @@
+ServerEvents.tags('item', e => {
+    e.add('legendarytooltips:level_14', [
+        /ars_nouveau:.*/,
+        /occultism:.*/,
+        /bloodmagic:.*/,
+        /hexerei:.*/,
+        /ars_elemental:.*/,
+        /arsarsenal:.*/,
+        /arsomega:.*/,
+        /mysticalagriculture:.*/,
+        /mysticalagradditions:.*/,
+        /mysticaladaptations:.*/,
+        /forbidden_arcanus:.*/,
+        /majobroom:.*/,
+        /naturesaura:.*/,
+        /hexcasting:.*/,
+        /eidolon:.*/,
+        /starbunclemania:.*/,
+        /tomeofblood:.*/,
+        /irons_spellbooks:.*/,
+        /arseng:.*/,
+        /malum:.*/
+    ]);
+    e.remove('legendarytooltips:level_14', [
+        /malum:.*spirit/,
+        /ars_nouveau:.*(hood|robes|leggings|boots|bow)/,
+        /ars_elemental:.*(hat|robes|leggings|boots)/,
+        'occultism:infused_pickaxe',
+        'occultism:iesnium_pickaxe',
+        /bloodmagic:soul(sword|axe|pickaxe|shovel)/,
+        /bloodmagic:living(helmet|plate|leggings|boots)/,
+        /mysticalagriculture:.*(axe|pickaxe|shovel|sword|helmet|chestplate|leggings|boots|bow|crossbow|sickle|scythe|paxel)/,
+        /forbidden_arcanus:.*(axe|pickaxe|shovel|sword|helmet|chestplate|leggings|boots)/,
+        /naturesaura:.*(axe|pickaxe|shovel|sword|helmet|chest|pants|boots)/,
+        'irons_spellbooks:magehunter',
+        'irons_spellbooks:keeper_flameberge',
+        /irons_spellbooks:.*(helmet|chestplate|leggings|boots)/
+    ])
+});

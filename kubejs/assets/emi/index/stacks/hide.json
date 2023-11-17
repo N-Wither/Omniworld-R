@@ -1,0 +1,9 @@
+{
+    "filters": [
+        "/refinedstorage:(white|orange|magenta|yellow|red|green|blue|brown|purple|light_gray|cyan|gray|pink|lime|black).*/",
+        "/creativewirelesstransmitter:(white|orange|magenta|yellow|red|green|blue|brown|purple|light_gray|cyan|gray|pink|lime|black).*/",
+        "/enderio:filled_soul_vial/",
+        "/enderio:broken_spawner/",
+        "/enderio:(clear_glass|fused_quartz).*(white|orange|magenta|light_blue|yellow|lime|pink|gray|light_gray|cyan|purple|blue|brown|green|red|black)/"
+    ]
+}

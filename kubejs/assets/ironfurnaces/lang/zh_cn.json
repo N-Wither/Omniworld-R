@@ -1,0 +1,11 @@
+{
+    "block.ironfurnaces.allthemodium_furnace": "山铜熔炉",
+    "block.ironfurnaces.vibranium_furnace": "秘银熔炉",
+    "block.ironfurnaces.unobtainium_furnace": "精金熔炉",
+    "container.ironfurnaces.allthemodium_furnace": "山铜熔炉",
+    "container.ironfurnaces.vibranium_furnace": "秘银熔炉",
+    "container.ironfurnaces.unobtainium_furnace": "精金熔炉",
+    "item.ironfurnaces.upgrade_allthemodium": "熔炉升级：下界合金->山铜",
+    "item.ironfurnaces.upgrade_vibranium": "熔炉升级：山铜->秘银",
+    "item.ironfurnaces.upgrade_unobtainium": "熔炉升级：秘银->精金"
+}

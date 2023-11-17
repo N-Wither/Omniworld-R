@@ -1,0 +1,3 @@
+PlayerEvents.inventoryChanged(e => {
+    
+})

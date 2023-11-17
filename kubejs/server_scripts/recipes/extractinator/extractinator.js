@@ -1,0 +1,20 @@
+ServerEvents.recipes(e => {
+    // {
+    //     "type": "extractinator:extractinating",
+    //         "input": {
+    //         "tag": "extractinator:cobblestone"
+    //     },
+    //     "drops": [
+    //         {
+    //             "drop": "#extractinator:common_drops",
+    //             "drop_chance": 0.05,
+    //             "min_drop_count": 1,
+    //             "max_drop_count": 2
+    //         },
+    //         {
+    //             "drop": "#extractinator:rare_drops",
+    //             "drop_chance": 0.01
+    //         }
+    //     ]
+    // }
+})
