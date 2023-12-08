@@ -1,3 +1,29 @@
+# 3.3.0 Hibiscus
+## 已知问题
+和 3.2.0 一样
+
+## 新增模组
+- Eidolon: Repraised
+- Jump Over Fences
+- Just Enough Archaeology
+- Borderless Window
+- FTB XMod Compat
+- Paragliders
+- Click Machine
+- Clean Swing Through Grass
+- Botania
+- AIOT Botania
+
+## 移除模组
+- No Chat Reports: 可能导致游戏卡死
+
+## Changes
+- 山铜、秘银和精金现在可以使用镭射钻 (Industrial Foregoing) 获得
+- 为 GregTech 增加了神秘农业种子和蜜蜂
+- 药水和附魔书现在可堆叠到 16 个
+- 两个新物品：秒表和中娅沙漏
+- 为 Botania 添加了任务
+
 # 3.2.0 Buttercup
 ## 重要提醒
 **这个版本从 Fabric 搞来了几个模组 （BetterX 系列），因此可能出现兼容性问题，如果你发现任何，向我报告！**
@@ -9,7 +35,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.client.player.Local
 ```
 解决方法：重启游戏
 
-## 新模组
+## 新增模组
 - Iron Jetpacks
 - Moog's End Structures
 - Bigger Reactors
@@ -26,7 +52,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.client.player.Local
 - KubeJS Create
 - GregTechCEu Modern
 
-## 移除的模组
+## 移除模组
 - **Target Dummy**: 与 Pedestal 模组的 Attacker Upgrade 不兼容
 
 ## 变更
@@ -44,14 +70,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.client.player.Local
 - 更多…
 
 # 3.1.0 Lavender
-## 新模组
+## 新增模组
 - Refined Storage: Requestify
 - Mekanism Weapons
 - Rubidium Extra
 - Hyper Box
 - Deeper and Darker
 
-## 移除的模组
+## 移除模组
 - Just Zoom
 - AE2 Additional Opportunities
 

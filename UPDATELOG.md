@@ -1,3 +1,29 @@
+# 3.3.0 Hibiscus
+## Known Issues
+Same as 3.2.0
+
+## New Mods
+- Eidolon: Repraised
+- Jump Over Fences
+- Just Enough Archaeology
+- Borderless Window
+- FTB XMod Compat
+- Paragliders
+- Click Machine
+- Clean Swing Through Grass
+- Botania
+- AIOT Botania
+
+## Removed Mods
+- No Chat Reports: May cause game freese
+
+## Changes
+- Orichalcum, mithril and adamantite can be obtained by Laser Drill (Industrial Foregoing)
+- Added Mystical Crops & Bees for GregTech
+- Potions & Enchanted Books can be stackd up to 16
+- 2 new items: Stopwatch & Zhonya's Hourglass
+- Added quests for Botania
+
 # 3.2.0 Buttercup
 ## IMPORTANT NOTE
 **As we imported some mods (BetterX mods) from fabric, there may be some compactibility issues, if you find any, please report to me!**
