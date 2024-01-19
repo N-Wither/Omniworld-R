@@ -1,3 +1,36 @@
+# 3.4.0 Cornflower
+## New Mods
+- Applied Botanics Addon
+- Tetranomicon
+- KleeSlabs
+- Better Chunk Loading
+- Thermal Foundation
+- Thermal Expansion
+- Thermal Innovation
+- Thermal Dynamics
+- Thermal Integration
+- Thermal: Extra
+- Thermaloot
+- Galosphere
+- Visuality: Reforged
+- Mana and Artifice
+- Wizard's Reborn
+- Embers Rekindled
+- EMI Loot
+- Zero Core 2
+- Extreme Reactors
+- Industrial Foregoing Souls
+- Item Zoom
+
+## Removed Mods
+- Creeper Overhaul: Incompatible with Thermal Seires
+- Just Enough Archaeology: Replaced with EMI Loot
+- Bigger Reactors, Quartz, Phosphophyllite: Quartz makes the game crash when launching
+
+## Changes
+- Removed the `#forge:raw_materials/uraninite` from Raw Uranite (Powah)
+- Added recipe for Infinity Pipe Upgrade (PipeZ)
+
 # 3.3.0 Hibiscus
 ## Known Issues
 Same as 3.2.0

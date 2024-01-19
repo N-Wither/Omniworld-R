@@ -1,3 +1,36 @@
+# 3.4.0 Cornflower
+## 新增模组
+- Applied Botanics Addon
+- Tetranomicon
+- KleeSlabs
+- Better Chunk Loading
+- Thermal Foundation
+- Thermal Expansion
+- Thermal Innovation
+- Thermal Dynamics
+- Thermal Integration
+- Thermal: Extra
+- Thermaloot
+- Galosphere
+- Visuality: Reforged
+- Mana and Artifice
+- Wizard's Reborn
+- Embers Rekindled
+- EMI Loot
+- Zero Core 2
+- Extreme Reactors
+- Industrial Foregoing Souls
+- Item Zoom
+
+## 移除模组
+- Creeper Overhaul: 与 Thermal Seires 不兼容
+- Just Enough Archaeology: 被 EMI Loot 代替
+- Bigger Reactors, Quartz, Phosphophyllite: Quartz 导致启动时崩溃
+
+## Changes
+- 移除天然晶质铀（Powah）的 `#forge:raw_materials/uraninite` 标签
+- 为无限管道升级（PipeZ）添加了配方
+
 # 3.3.0 Hibiscus
 ## 已知问题
 和 3.2.0 一样
