@@ -1,3 +1,37 @@
+# 3.5.0 Magnolia
+## New Mods
+**Note:** Some new mods may not be listed here 'cause they are (silently) imported by other mods as dependency.
+- Classic Bars
+- Connected Glass
+- Dynamic Crosshair
+- MythicBotany
+- Plonk
+- Integrated Scripting
+- Not Enough Crashes
+- Observable
+- Redstone Arsenal
+- Mob Grinding Utils
+- EMIffect
+- Amendments
+- KubeJS Ars Nouveau
+- When Dungeons Arise
+- Polymorphic Energistics
+- Refined Polymorphism
+- L_Ender's Cataclysm
+- Do A Barrel Roll
+
+## Removed Mods
+- Overflowing Bars
+- Deep Aether
+- Universal Enchants
+- Just Enough Effect Descriptions
+
+## Changes
+- Added recipe for UHV Energy Input (and Output) Hatches
+- Added 2 new multiblock machines: Deep Atom Reassemble Chamber & Omniverse Access Interface
+- Project: Creative Part I
+- QoL things
+
 # 3.4.0 Cornflower
 ## New Mods
 - Applied Botanics Addon

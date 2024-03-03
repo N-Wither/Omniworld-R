@@ -1,3 +1,37 @@
+# 3.5.0 Magnolia
+## 新增模组
+**注意:** 一些新模组可能不会在此列出，因为它们是被别的模组作为依赖静默引入的。
+- Classic Bars
+- Connected Glass
+- Dynamic Crosshair
+- MythicBotany
+- Plonk
+- Integrated Scripting
+- Not Enough Crashes
+- Observable
+- Redstone Arsenal
+- Mob Grinding Utils
+- EMIffect
+- Amendments
+- KubeJS Ars Nouveau
+- When Dungeons Arise
+- Polymorphic Energistics
+- Refined Polymorphism
+- L_Ender's Cataclysm
+- Do A Barrel Roll
+
+## 移除模组
+- Overflowing Bars
+- Deep Aether
+- Universal Enchants
+- Just Enough Effect Descriptions
+
+## 内容更改
+- 为 UHV 能源(以及动力)仓添加了配方
+- 两个新的多方块机器: 深度原子重组室和多元宇宙访问接口
+- 创造物品：第一部分
+- 一些 QoL 东西
+
 # 3.4.0 Cornflower
 ## 新增模组
 - Applied Botanics Addon
