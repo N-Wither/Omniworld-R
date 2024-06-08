@@ -1,3 +1,23 @@
+# 3.6.0 Gypsophila
+## 新增模组
+**注意:** 一些新模组可能不会在此列出，因为它们是被别的模组作为依赖静默引入的。
+- AE2 Insert Export Card
+- RS Insert Export Upgrade
+- Chisel Chipped Integration
+- Diagonal Walls
+- Radium
+- Thermal Endergy
+- Gobber
+- Create: Dreams & Desires
+- Yes Steve Models
+
+## 移除模组
+- Canary: 替换为 Radium
+- Nature's Aura
+
+## 内容更改
+- Added recipes and quests for Creative Items.
+
 # 3.5.0 Magnolia
 ## 新增模组
 **注意:** 一些新模组可能不会在此列出，因为它们是被别的模组作为依赖静默引入的。

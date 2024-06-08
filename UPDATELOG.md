@@ -1,3 +1,23 @@
+# 3.6.0 Gypsophila
+## New Mods
+**Note:** Some new mods may not be listed here 'cause they are (silently) imported by other mods as dependency.
+- AE2 Insert Export Card
+- RS Insert Export Upgrade
+- Chisel Chipped Integration
+- Diagonal Walls
+- Radium
+- Thermal Endergy
+- Gobber
+- Create: Dreams & Desires
+- Yes Steve Models
+
+## Removed Mods
+- Canary: Replaced by Radium
+- Nature's Aura
+
+## Changes
+- Added recipes and quests for Creative Items.
+
 # 3.5.0 Magnolia
 ## New Mods
 **Note:** Some new mods may not be listed here 'cause they are (silently) imported by other mods as dependency.
