@@ -1,3 +1,18 @@
+# 3.7.1 Iris
+## 新增模组
+**注意:** 一些新模组可能不会在此列出，因为它们是被别的模组作为依赖静默引入的，或者我忘了。
+- Overflowing Bars
+
+## 移除模组
+- BetterEnd
+- Classic Bars
+
+## 内容更改
+- 现在 GTEU 和 FE 的转换比是 1:1
+- 给 GregTech 加了一些简单又特别好用的东西
+- 修复了 Occultism 的粉碎末地石配方
+- 其他的忘了
+
 # 3.6.0 Gypsophila
 ## 新增模组
 **注意:** 一些新模组可能不会在此列出，因为它们是被别的模组作为依赖静默引入的。
@@ -16,7 +31,7 @@
 - Nature's Aura
 
 ## 内容更改
-- Added recipes and quests for Creative Items.
+- 给创造物品加了配方和任务
 
 # 3.5.0 Magnolia
 ## 新增模组
