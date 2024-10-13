@@ -1,3 +1,18 @@
+# 3.7.1 Iris
+## New Mods
+**Note:** Some new mods may not be listed here 'cause they are (silently) imported by other mods as dependency, or I just forgot them.
+- Overflowing Bars
+
+## Removed Mods
+- BetterEnd
+- Classic Bars
+
+## Changes
+- Now GTEU and FE will be converted at 1:1
+- Added some simple and cool stuff to GregTech
+- Fixed Occultism crushed endstone recipe
+- Other things that I've forgotten
+
 # 3.6.0 Gypsophila
 ## New Mods
 **Note:** Some new mods may not be listed here 'cause they are (silently) imported by other mods as dependency.
