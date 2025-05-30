@@ -1,3 +1,22 @@
+# 3.8.0 Sunflower
+## Notable Changes
+A breaking change after several months, may break your saves, backup them before upgrading.
+
+## Removed Mods
+- Fabric mods
+- [I've forgotten...]
+
+## New Mods
+- Jaden's Nether Expansion
+- Tinker's Construct
+- Sakura Tinker
+- TiCEX
+- Tinker's Calibration
+- Tinkers Integration and Tweaks
+- Tinkers' Advanced
+- Tinkers' Katanas
+- Tinkers' Levelling Addon
+
 # 3.7.1 Iris
 ## New Mods
 **Note:** Some new mods may not be listed here 'cause they are (silently) imported by other mods as dependency, or I just forgot them.
